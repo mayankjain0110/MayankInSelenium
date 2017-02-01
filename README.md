@@ -1,2 +1,2 @@
 # MayankInSelenium
-Hi this is my first exerience of git .
+Hi this is my first experience of git .
